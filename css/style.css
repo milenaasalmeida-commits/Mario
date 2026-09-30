@@ -30,6 +30,10 @@ animation: pipe-animation 2s infinite linear;
   animation: jump 500ms ease-out;
 }
 
+.jump {
+  animation: jump 500ms ease-out;
+}
+
 @keyframes .pipe-animation {
   from {
     right: -80px;
